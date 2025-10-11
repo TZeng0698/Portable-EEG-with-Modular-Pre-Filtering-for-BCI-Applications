@@ -1,0 +1,1008 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>C:\Users\Bok\Desktop\EEG\PCB\Second_stage\Modular_Filter_kicad\Modular_Filter_kicad.kicad_sch</source>
+    <date>2025-04-05T14:11:49+0300</date>
+    <tool>Eeschema 9.0.0</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>Modular_Filter_kicad.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="C1">
+      <value>470nF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <description>Unpolarized capacitor, small symbol</description>
+      <fields>
+        <field name="Footprint">Capacitor_SMD:C_0805_2012Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description">Unpolarized capacitor, small symbol</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="Modular_Filter_kicad.kicad_sch"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6783f800-ed1d-4c29-b306-b39f07c8ff0b</tstamps>
+    </comp>
+    <comp ref="C3">
+      <value>100nF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <description>Unpolarized capacitor, small symbol</description>
+      <fields>
+        <field name="Footprint">Capacitor_SMD:C_0805_2012Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description">Unpolarized capacitor, small symbol</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="Modular_Filter_kicad.kicad_sch"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>11a7e21b-e28f-4f82-88cf-2149d02d36db</tstamps>
+    </comp>
+    <comp ref="C4">
+      <value>100nF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <description>Unpolarized capacitor, small symbol</description>
+      <fields>
+        <field name="Footprint">Capacitor_SMD:C_0805_2012Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description">Unpolarized capacitor, small symbol</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="Modular_Filter_kicad.kicad_sch"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3afae907-126b-416a-9e6b-3a88ff265433</tstamps>
+    </comp>
+    <comp ref="C6">
+      <value>220nF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <description>Unpolarized capacitor, small symbol</description>
+      <fields>
+        <field name="Footprint">Capacitor_SMD:C_0805_2012Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description">Unpolarized capacitor, small symbol</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="Modular_Filter_kicad.kicad_sch"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7236e2fb-387d-4628-843c-3ec8f38bc817</tstamps>
+    </comp>
+    <comp ref="C7">
+      <value>1pF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <description>Unpolarized capacitor, small symbol</description>
+      <fields>
+        <field name="Footprint">Capacitor_SMD:C_0805_2012Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description">Unpolarized capacitor, small symbol</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="Modular_Filter_kicad.kicad_sch"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6fd7c229-6d15-4408-8211-125d0ee696dc</tstamps>
+    </comp>
+    <comp ref="C8">
+      <value>10n</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <description>Unpolarized capacitor, small symbol</description>
+      <fields>
+        <field name="Footprint">Capacitor_SMD:C_0805_2012Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description">Unpolarized capacitor, small symbol</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="Modular_Filter_kicad.kicad_sch"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6e8420b6-feb5-4bfd-8fd5-a1b1f076616d</tstamps>
+    </comp>
+    <comp ref="C9">
+      <value>100n</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <description>Unpolarized capacitor, small symbol</description>
+      <fields>
+        <field name="Footprint">Capacitor_SMD:C_0805_2012Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description">Unpolarized capacitor, small symbol</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="Modular_Filter_kicad.kicad_sch"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1a2ee296-2481-46bc-abbe-4c7869f7b3dd</tstamps>
+    </comp>
+    <comp ref="C10">
+      <value>100n</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <description>Unpolarized capacitor, small symbol</description>
+      <fields>
+        <field name="Footprint">Capacitor_SMD:C_0805_2012Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description">Unpolarized capacitor, small symbol</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="Modular_Filter_kicad.kicad_sch"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fbe26678-4f15-4598-bf1e-67e1d58a99b5</tstamps>
+    </comp>
+    <comp ref="C11">
+      <value>100n</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <description>Unpolarized capacitor, small symbol</description>
+      <fields>
+        <field name="Footprint">Capacitor_SMD:C_0805_2012Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description">Unpolarized capacitor, small symbol</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="Modular_Filter_kicad.kicad_sch"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>191325f3-b524-40a3-a878-42656040c519</tstamps>
+    </comp>
+    <comp ref="C12">
+      <value>100n</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <description>Unpolarized capacitor, small symbol</description>
+      <fields>
+        <field name="Footprint">Capacitor_SMD:C_0805_2012Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description">Unpolarized capacitor, small symbol</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="Modular_Filter_kicad.kicad_sch"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3102c553-85fb-4848-accc-75bf7cb08558</tstamps>
+    </comp>
+    <comp ref="C13">
+      <value>1uF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <description>Unpolarized capacitor, small symbol</description>
+      <fields>
+        <field name="Footprint">Capacitor_SMD:C_0805_2012Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description">Unpolarized capacitor, small symbol</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="Modular_Filter_kicad.kicad_sch"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7107bf0d-089a-43b0-80c8-66b8339499c1</tstamps>
+    </comp>
+    <comp ref="C14">
+      <value>1uF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <description>Unpolarized capacitor, small symbol</description>
+      <fields>
+        <field name="Footprint">Capacitor_SMD:C_0805_2012Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description">Unpolarized capacitor, small symbol</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="Modular_Filter_kicad.kicad_sch"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e2b3ee46-f91c-4a2c-ab95-7f75290bcb15</tstamps>
+    </comp>
+    <comp ref="C15">
+      <value>1uF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <description>Unpolarized capacitor, small symbol</description>
+      <fields>
+        <field name="Footprint">Capacitor_SMD:C_0805_2012Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description">Unpolarized capacitor, small symbol</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="Modular_Filter_kicad.kicad_sch"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b1d9e742-06ad-4168-b859-b7a97af1ba17</tstamps>
+    </comp>
+    <comp ref="C16">
+      <value>1uF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <description>Unpolarized capacitor, small symbol</description>
+      <fields>
+        <field name="Footprint">Capacitor_SMD:C_0805_2012Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description">Unpolarized capacitor, small symbol</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="Modular_Filter_kicad.kicad_sch"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>73641b00-0897-4cef-b68b-b1786374557f</tstamps>
+    </comp>
+    <comp ref="C17">
+      <value>1uF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <description>Unpolarized capacitor, small symbol</description>
+      <fields>
+        <field name="Footprint">Capacitor_SMD:C_0805_2012Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description">Unpolarized capacitor, small symbol</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="Modular_Filter_kicad.kicad_sch"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8f95bdd7-6b6b-484a-8804-ed5b838ea41a</tstamps>
+    </comp>
+    <comp ref="C18">
+      <value>1uF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <description>Unpolarized capacitor, small symbol</description>
+      <fields>
+        <field name="Footprint">Capacitor_SMD:C_0805_2012Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description">Unpolarized capacitor, small symbol</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="Modular_Filter_kicad.kicad_sch"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3c84e062-abfe-418f-83d0-c7e533f913bd</tstamps>
+    </comp>
+    <comp ref="J1">
+      <value>Conn_01x06_Pin</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_1x06_P2.54mm_Horizontal</footprint>
+      <description>Generic connector, single row, 01x06, script generated</description>
+      <fields>
+        <field name="Footprint">Connector_PinHeader_2.54mm:PinHeader_1x06_P2.54mm_Horizontal</field>
+        <field name="Datasheet"/>
+        <field name="Description">Generic connector, single row, 01x06, script generated</field>
+      </fields>
+      <libsource lib="Connector" part="Conn_01x06_Pin" description="Generic connector, single row, 01x06, script generated"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="Modular_Filter_kicad.kicad_sch"/>
+      <property name="ki_keywords" value="connector"/>
+      <property name="ki_fp_filters" value="Connector*:*_1x??_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d0fd42f1-12da-4b5d-8a51-843a80a34e90</tstamps>
+    </comp>
+    <comp ref="J2">
+      <value>Conn_01x01_Socket</value>
+      <footprint>Connector_PinSocket_2.54mm:PinSocket_1x01_P2.54mm_Horizontal</footprint>
+      <description>Generic connector, single row, 01x01, script generated</description>
+      <fields>
+        <field name="Footprint">Connector_PinSocket_2.54mm:PinSocket_1x01_P2.54mm_Horizontal</field>
+        <field name="Datasheet"/>
+        <field name="Description">Generic connector, single row, 01x01, script generated</field>
+      </fields>
+      <libsource lib="Connector" part="Conn_01x01_Socket" description="Generic connector, single row, 01x01, script generated"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="Modular_Filter_kicad.kicad_sch"/>
+      <property name="ki_keywords" value="connector"/>
+      <property name="ki_fp_filters" value="Connector*:*_1x??_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e413cdb4-12aa-490f-8b8d-0f6ed4660550</tstamps>
+    </comp>
+    <comp ref="R1">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <description>Resistor, small symbol</description>
+      <fields>
+        <field name="Footprint">Resistor_SMD:R_0805_2012Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description">Resistor, small symbol</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="Modular_Filter_kicad.kicad_sch"/>
+      <property name="ki_keywords" value="R resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0bffeb5f-3a57-40c1-a48a-280818bee83e</tstamps>
+    </comp>
+    <comp ref="R2">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <description>Resistor, small symbol</description>
+      <fields>
+        <field name="Footprint">Resistor_SMD:R_0805_2012Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description">Resistor, small symbol</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="Modular_Filter_kicad.kicad_sch"/>
+      <property name="ki_keywords" value="R resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fa6252dd-5d4c-4183-bd20-f9fd3276a303</tstamps>
+    </comp>
+    <comp ref="R3">
+      <value>500k</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <description>Resistor, small symbol</description>
+      <fields>
+        <field name="Footprint">Resistor_SMD:R_0805_2012Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description">Resistor, small symbol</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="Modular_Filter_kicad.kicad_sch"/>
+      <property name="ki_keywords" value="R resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>80ac03d8-e39e-4a46-9133-6c541aa1e51b</tstamps>
+    </comp>
+    <comp ref="R4">
+      <value>30k</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <description>Resistor, small symbol</description>
+      <fields>
+        <field name="Footprint">Resistor_SMD:R_0805_2012Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description">Resistor, small symbol</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="Modular_Filter_kicad.kicad_sch"/>
+      <property name="ki_keywords" value="R resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8bd09f38-7a24-4da6-b96b-beb1db6bd2b5</tstamps>
+    </comp>
+    <comp ref="R5">
+      <value>350</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <description>Resistor, small symbol</description>
+      <fields>
+        <field name="Footprint">Resistor_SMD:R_0805_2012Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description">Resistor, small symbol</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="Modular_Filter_kicad.kicad_sch"/>
+      <property name="ki_keywords" value="R resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>18fa1655-0afd-49a1-bd8c-4defa7456ea4</tstamps>
+    </comp>
+    <comp ref="R6">
+      <value>30k</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <description>Resistor, small symbol</description>
+      <fields>
+        <field name="Footprint">Resistor_SMD:R_0805_2012Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description">Resistor, small symbol</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="Modular_Filter_kicad.kicad_sch"/>
+      <property name="ki_keywords" value="R resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2dbfd580-279a-4bd8-ac0a-10fda4b0a15a</tstamps>
+    </comp>
+    <comp ref="R7">
+      <value>350</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <description>Resistor, small symbol</description>
+      <fields>
+        <field name="Footprint">Resistor_SMD:R_0805_2012Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description">Resistor, small symbol</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="Modular_Filter_kicad.kicad_sch"/>
+      <property name="ki_keywords" value="R resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6fddd83e-a36e-4f90-a794-3e3f851e8c94</tstamps>
+    </comp>
+    <comp ref="R8">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <description>Resistor, small symbol</description>
+      <fields>
+        <field name="Footprint">Resistor_SMD:R_0805_2012Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description">Resistor, small symbol</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="Modular_Filter_kicad.kicad_sch"/>
+      <property name="ki_keywords" value="R resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>16acc67c-69b8-44af-81f2-1077e9a32364</tstamps>
+    </comp>
+    <comp ref="R9">
+      <value>6.7k</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <description>Resistor, small symbol</description>
+      <fields>
+        <field name="Footprint">Resistor_SMD:R_0805_2012Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description">Resistor, small symbol</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="Modular_Filter_kicad.kicad_sch"/>
+      <property name="ki_keywords" value="R resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>69fa7123-7169-4100-ad25-a5632878cb3c</tstamps>
+    </comp>
+    <comp ref="R10">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <description>Resistor, small symbol</description>
+      <fields>
+        <field name="Footprint">Resistor_SMD:R_0805_2012Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description">Resistor, small symbol</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="Modular_Filter_kicad.kicad_sch"/>
+      <property name="ki_keywords" value="R resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0254bdea-474c-4ffc-bad0-186fac61d045</tstamps>
+    </comp>
+    <comp ref="R11">
+      <value>1k</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <description>Resistor, small symbol</description>
+      <fields>
+        <field name="Footprint">Resistor_SMD:R_0805_2012Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description">Resistor, small symbol</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="Modular_Filter_kicad.kicad_sch"/>
+      <property name="ki_keywords" value="R resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>50aef616-6b29-4397-bf8a-5ce972c24edb</tstamps>
+    </comp>
+    <comp ref="R12">
+      <value>100k</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <description>Resistor, small symbol</description>
+      <fields>
+        <field name="Footprint">Resistor_SMD:R_0805_2012Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description">Resistor, small symbol</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="Modular_Filter_kicad.kicad_sch"/>
+      <property name="ki_keywords" value="R resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>acfb649a-a4a2-4cc9-adad-2a0f4aedf310</tstamps>
+    </comp>
+    <comp ref="R13">
+      <value>2k</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <description>Resistor, small symbol</description>
+      <fields>
+        <field name="Footprint">Resistor_SMD:R_0805_2012Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description">Resistor, small symbol</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="Modular_Filter_kicad.kicad_sch"/>
+      <property name="ki_keywords" value="R resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>340a1a06-f7ef-4dc6-a548-899dce7420a4</tstamps>
+    </comp>
+    <comp ref="R14">
+      <value>4.7M</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <description>Resistor, small symbol</description>
+      <fields>
+        <field name="Footprint">Resistor_SMD:R_0805_2012Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description">Resistor, small symbol</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="Modular_Filter_kicad.kicad_sch"/>
+      <property name="ki_keywords" value="R resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>39a18055-56b3-4d2a-98f6-8fc95cf718a3</tstamps>
+    </comp>
+    <comp ref="R15">
+      <value>4.7M</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <description>Resistor, small symbol</description>
+      <fields>
+        <field name="Footprint">Resistor_SMD:R_0805_2012Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description">Resistor, small symbol</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="Modular_Filter_kicad.kicad_sch"/>
+      <property name="ki_keywords" value="R resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f214ba4e-991f-4eb1-a67b-d3967584ddf9</tstamps>
+    </comp>
+    <comp ref="R16">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <description>Resistor, small symbol</description>
+      <fields>
+        <field name="Footprint">Resistor_SMD:R_0805_2012Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description">Resistor, small symbol</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="Modular_Filter_kicad.kicad_sch"/>
+      <property name="ki_keywords" value="R resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0914e8aa-2ce5-4cf6-a85f-b0677f93fa62</tstamps>
+    </comp>
+    <comp ref="R17">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <description>Resistor, small symbol</description>
+      <fields>
+        <field name="Footprint">Resistor_SMD:R_0805_2012Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description">Resistor, small symbol</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="Modular_Filter_kicad.kicad_sch"/>
+      <property name="ki_keywords" value="R resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>55ffa416-774b-43f1-bb69-36ed085c1d46</tstamps>
+    </comp>
+    <comp ref="U2">
+      <value>OPA2197</value>
+      <footprint>Package_SO:SOIC-8_3.9x4.9mm_P1.27mm</footprint>
+      <datasheet>http://www.ti.com/lit/ds/symlink/opa2197.pdf</datasheet>
+      <description>Dual 36V, Precision, Rail-to-Rail Input/Output, Low Offset Voltage, Operational Amplifier, SOIC-8</description>
+      <fields>
+        <field name="Footprint">Package_SO:SOIC-8_3.9x4.9mm_P1.27mm</field>
+        <field name="Datasheet">http://www.ti.com/lit/ds/symlink/opa2197.pdf</field>
+        <field name="Description">Dual 36V, Precision, Rail-to-Rail Input/Output, Low Offset Voltage, Operational Amplifier, SOIC-8</field>
+      </fields>
+      <libsource lib="Amplifier_Operational" part="OPA2197xD" description="Dual 36V, Precision, Rail-to-Rail Input/Output, Low Offset Voltage, Operational Amplifier, SOIC-8"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="Modular_Filter_kicad.kicad_sch"/>
+      <property name="ki_keywords" value="dual opamp rtor"/>
+      <property name="ki_fp_filters" value="SOIC*3.9x4.9mm*P1.27mm*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>dc2b3f40-36c0-4d34-9d43-6586288bb27a bc5271bc-e157-4d15-aa1b-d1c3fe4e53d3 962e14f7-bc39-4a03-ad65-13f0e49b3f2f</tstamps>
+    </comp>
+    <comp ref="U4">
+      <value>OPA4197xD</value>
+      <footprint>Package_SO:SOIC-14_3.9x8.7mm_P1.27mm</footprint>
+      <datasheet>http://www.ti.com/lit/ds/symlink/opa4197.pdf</datasheet>
+      <description>Quad 36V, Precision, Rail-to-Rail Input/Output, Low Offset Voltage, Operational Amplifier, SOIC-14</description>
+      <fields>
+        <field name="Footprint">Package_SO:SOIC-14_3.9x8.7mm_P1.27mm</field>
+        <field name="Datasheet">http://www.ti.com/lit/ds/symlink/opa4197.pdf</field>
+        <field name="Description">Quad 36V, Precision, Rail-to-Rail Input/Output, Low Offset Voltage, Operational Amplifier, SOIC-14</field>
+      </fields>
+      <libsource lib="Amplifier_Operational" part="OPA4197xD" description="Quad 36V, Precision, Rail-to-Rail Input/Output, Low Offset Voltage, Operational Amplifier, SOIC-14"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="Modular_Filter_kicad.kicad_sch"/>
+      <property name="ki_keywords" value="quad opamp rtor"/>
+      <property name="ki_fp_filters" value="SOIC*3.9x8.7mm*P1.27mm*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6c5d4480-6d2c-46b3-8a17-7a1717f785af 1a8f6e9c-7f92-4baf-aec1-12eadddae8af d9e054a9-cb3b-4a39-9375-5372f1083a53 7c60db3b-8ce4-4822-ad28-01ae97fdc2e4 0e5cae85-f5fd-489d-89f2-d7d7e0d8811b</tstamps>
+    </comp>
+    <comp ref="U6">
+      <value>INA128</value>
+      <footprint>Package_SO:SOIC-8_5.3x6.2mm_P1.27mm</footprint>
+      <datasheet>http://www.ti.com/lit/ds/symlink/ina128.pdf</datasheet>
+      <description>Precision, Low Power Instrumentation Amplifier G = 1 + 50kOhm/Rg, DIP-8/SOIC-8</description>
+      <fields>
+        <field name="Footprint">Package_SO:SOIC-8_5.3x6.2mm_P1.27mm</field>
+        <field name="Datasheet">http://www.ti.com/lit/ds/symlink/ina128.pdf</field>
+        <field name="Description">Precision, Low Power Instrumentation Amplifier G = 1 + 50kOhm/Rg, DIP-8/SOIC-8</field>
+      </fields>
+      <libsource lib="Amplifier_Instrumentation" part="INA128" description="Precision, Low Power Instrumentation Amplifier G = 1 + 50kOhm/Rg, DIP-8/SOIC-8"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="Modular_Filter_kicad.kicad_sch"/>
+      <property name="ki_keywords" value="instrumentation opamp"/>
+      <property name="ki_fp_filters" value="DIP*W7.62mm* SOIC*P1.27mm*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e11cd6fd-756d-4b66-80c5-e82fe8d744c0</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="Amplifier_Instrumentation" part="INA128">
+      <description>Precision, Low Power Instrumentation Amplifier G = 1 + 50kOhm/Rg, DIP-8/SOIC-8</description>
+      <docs>http://www.ti.com/lit/ds/symlink/ina128.pdf</docs>
+      <footprints>
+        <fp>DIP*W7.62mm*</fp>
+        <fp>SOIC*P1.27mm*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">INA128</field>
+        <field name="Footprint"/>
+        <field name="Datasheet">http://www.ti.com/lit/ds/symlink/ina128.pdf</field>
+        <field name="Description">Precision, Low Power Instrumentation Amplifier G = 1 + 50kOhm/Rg, DIP-8/SOIC-8</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Rg" type="passive"/>
+        <pin num="2" name="-" type="input"/>
+        <pin num="3" name="+" type="input"/>
+        <pin num="4" name="V-" type="power_in"/>
+        <pin num="5" name="Ref" type="input"/>
+        <pin num="6" name="" type="output"/>
+        <pin num="7" name="V+" type="power_in"/>
+        <pin num="8" name="Rg" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Amplifier_Operational" part="OPA2197xD">
+      <description>Dual 36V, Precision, Rail-to-Rail Input/Output, Low Offset Voltage, Operational Amplifier, SOIC-8</description>
+      <docs>http://www.ti.com/lit/ds/symlink/opa2197.pdf</docs>
+      <footprints>
+        <fp>SOIC*3.9x4.9mm*P1.27mm*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">OPA2197xD</field>
+        <field name="Footprint">Package_SO:SOIC-8_3.9x4.9mm_P1.27mm</field>
+        <field name="Datasheet">http://www.ti.com/lit/ds/symlink/opa2197.pdf</field>
+        <field name="Description">Dual 36V, Precision, Rail-to-Rail Input/Output, Low Offset Voltage, Operational Amplifier, SOIC-8</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="output"/>
+        <pin num="2" name="-" type="input"/>
+        <pin num="3" name="+" type="input"/>
+        <pin num="4" name="V-" type="power_in"/>
+        <pin num="5" name="+" type="input"/>
+        <pin num="6" name="-" type="input"/>
+        <pin num="7" name="" type="output"/>
+        <pin num="8" name="V+" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="Amplifier_Operational" part="OPA4197xD">
+      <description>Quad 36V, Precision, Rail-to-Rail Input/Output, Low Offset Voltage, Operational Amplifier, SOIC-14</description>
+      <docs>http://www.ti.com/lit/ds/symlink/opa4197.pdf</docs>
+      <footprints>
+        <fp>SOIC*3.9x8.7mm*P1.27mm*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">OPA4197xD</field>
+        <field name="Footprint">Package_SO:SOIC-14_3.9x8.7mm_P1.27mm</field>
+        <field name="Datasheet">http://www.ti.com/lit/ds/symlink/opa4197.pdf</field>
+        <field name="Description">Quad 36V, Precision, Rail-to-Rail Input/Output, Low Offset Voltage, Operational Amplifier, SOIC-14</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="output"/>
+        <pin num="2" name="-" type="input"/>
+        <pin num="3" name="+" type="input"/>
+        <pin num="4" name="V+" type="power_in"/>
+        <pin num="5" name="+" type="input"/>
+        <pin num="6" name="-" type="input"/>
+        <pin num="7" name="" type="output"/>
+        <pin num="8" name="" type="output"/>
+        <pin num="9" name="-" type="input"/>
+        <pin num="10" name="+" type="input"/>
+        <pin num="11" name="V-" type="power_in"/>
+        <pin num="12" name="+" type="input"/>
+        <pin num="13" name="-" type="input"/>
+        <pin num="14" name="" type="output"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector" part="Conn_01x01_Socket">
+      <description>Generic connector, single row, 01x01, script generated</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x01_Socket</field>
+        <field name="Footprint"/>
+        <field name="Datasheet">~</field>
+        <field name="Description">Generic connector, single row, 01x01, script generated</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector" part="Conn_01x06_Pin">
+      <description>Generic connector, single row, 01x06, script generated</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x06_Pin</field>
+        <field name="Footprint"/>
+        <field name="Datasheet">~</field>
+        <field name="Description">Generic connector, single row, 01x06, script generated</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+        <pin num="5" name="Pin_5" type="passive"/>
+        <pin num="6" name="Pin_6" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C_Small">
+      <description>Unpolarized capacitor, small symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C_Small</field>
+        <field name="Footprint"/>
+        <field name="Datasheet">~</field>
+        <field name="Description">Unpolarized capacitor, small symbol</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R_Small">
+      <description>Resistor, small symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R_Small</field>
+        <field name="Footprint"/>
+        <field name="Datasheet">~</field>
+        <field name="Description">Resistor, small symbol</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Amplifier_Instrumentation">
+      <uri>K:\KiCad\share\kicad\symbols\/Amplifier_Instrumentation.kicad_sym</uri>
+    </library>
+    <library logical="Amplifier_Operational">
+      <uri>K:\KiCad\share\kicad\symbols\/Amplifier_Operational.kicad_sym</uri>
+    </library>
+    <library logical="Connector">
+      <uri>K:\KiCad\share\kicad\symbols\/Connector.kicad_sym</uri>
+    </library>
+    <library logical="Device">
+      <uri>K:\KiCad\share\kicad\symbols\/Device.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="/50Hz_Filtered_Out" class="Default">
+      <node ref="R11" pin="1" pintype="passive"/>
+      <node ref="U4" pin="1" pintype="output"/>
+      <node ref="U4" pin="2" pinfunction="-" pintype="input"/>
+      <node ref="U4" pin="5" pinfunction="+" pintype="input"/>
+    </net>
+    <net code="2" name="/50Hz_first_branch" class="Default">
+      <node ref="C4" pin="2" pintype="passive"/>
+      <node ref="R7" pin="1" pintype="passive"/>
+      <node ref="U4" pin="3" pinfunction="+" pintype="input"/>
+    </net>
+    <net code="3" name="/50Hz_second_branch" class="Default">
+      <node ref="C6" pin="1" pintype="passive"/>
+      <node ref="C7" pin="1" pintype="passive"/>
+      <node ref="R9" pin="2" pintype="passive"/>
+      <node ref="U2" pin="6" pinfunction="-" pintype="input"/>
+      <node ref="U2" pin="7" pintype="output"/>
+    </net>
+    <net code="4" name="/AC_COUPLER_OUT" class="Default">
+      <node ref="C1" pin="1" pintype="passive"/>
+      <node ref="U2" pin="1" pintype="output"/>
+      <node ref="U6" pin="5" pinfunction="Ref" pintype="input"/>
+    </net>
+    <net code="5" name="/CM" class="Default">
+      <node ref="J2" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="R1" pin="1" pintype="passive"/>
+      <node ref="R2" pin="1" pintype="passive"/>
+    </net>
+    <net code="6" name="/E+" class="Default">
+      <node ref="J1" pin="5" pinfunction="Pin_5" pintype="passive"/>
+      <node ref="U6" pin="3" pinfunction="+" pintype="input"/>
+    </net>
+    <net code="7" name="/E-" class="Default">
+      <node ref="J1" pin="6" pinfunction="Pin_6" pintype="passive"/>
+      <node ref="U6" pin="2" pinfunction="-" pintype="input"/>
+    </net>
+    <net code="8" name="/E_OUT" class="Default">
+      <node ref="C12" pin="1" pintype="passive"/>
+      <node ref="J1" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="U4" pin="13" pinfunction="-" pintype="input"/>
+      <node ref="U4" pin="14" pintype="output"/>
+    </net>
+    <net code="9" name="/HP_Out" class="Default">
+      <node ref="R15" pin="2" pintype="passive"/>
+      <node ref="R16" pin="1" pintype="passive"/>
+      <node ref="U4" pin="8" pintype="output"/>
+      <node ref="U4" pin="9" pinfunction="-" pintype="input"/>
+    </net>
+    <net code="10" name="/INA_OUT" class="Default">
+      <node ref="C3" pin="2" pintype="passive"/>
+      <node ref="R3" pin="2" pintype="passive"/>
+      <node ref="R4" pin="2" pintype="passive"/>
+      <node ref="U6" pin="6" pintype="output"/>
+    </net>
+    <net code="11" name="/Main_Out" class="Default">
+      <node ref="C8" pin="2" pintype="passive"/>
+      <node ref="C9" pin="1" pintype="passive"/>
+      <node ref="R12" pin="2" pintype="passive"/>
+      <node ref="R13" pin="1" pintype="passive"/>
+      <node ref="U4" pin="7" pintype="output"/>
+    </net>
+    <net code="12" name="AGND" class="Default">
+      <node ref="C11" pin="2" pintype="passive"/>
+      <node ref="C13" pin="1" pintype="passive"/>
+      <node ref="C14" pin="1" pintype="passive"/>
+      <node ref="C15" pin="1" pintype="passive"/>
+      <node ref="C16" pin="1" pintype="passive"/>
+      <node ref="C17" pin="1" pintype="passive"/>
+      <node ref="C18" pin="1" pintype="passive"/>
+      <node ref="J1" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="R10" pin="2" pintype="passive"/>
+      <node ref="R13" pin="2" pintype="passive"/>
+      <node ref="R14" pin="2" pintype="passive"/>
+      <node ref="U2" pin="3" pinfunction="+" pintype="input"/>
+    </net>
+    <net code="13" name="AVDD" class="Default">
+      <node ref="C13" pin="2" pintype="passive"/>
+      <node ref="C15" pin="2" pintype="passive"/>
+      <node ref="C16" pin="2" pintype="passive"/>
+      <node ref="J1" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="U2" pin="8" pinfunction="V+" pintype="power_in"/>
+      <node ref="U4" pin="4" pinfunction="V+" pintype="power_in"/>
+      <node ref="U6" pin="7" pinfunction="V+" pintype="power_in"/>
+    </net>
+    <net code="14" name="AVSS" class="Default">
+      <node ref="C14" pin="2" pintype="passive"/>
+      <node ref="C17" pin="2" pintype="passive"/>
+      <node ref="C18" pin="2" pintype="passive"/>
+      <node ref="J1" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="U2" pin="4" pinfunction="V-" pintype="power_in"/>
+      <node ref="U4" pin="11" pinfunction="V-" pintype="power_in"/>
+      <node ref="U6" pin="4" pinfunction="V-" pintype="power_in"/>
+    </net>
+    <net code="15" name="Net-(C3-Pad1)" class="Default">
+      <node ref="C3" pin="1" pintype="passive"/>
+      <node ref="C4" pin="1" pintype="passive"/>
+      <node ref="R8" pin="1" pintype="passive"/>
+    </net>
+    <net code="16" name="Net-(C6-Pad2)" class="Default">
+      <node ref="C6" pin="2" pintype="passive"/>
+      <node ref="C7" pin="2" pintype="passive"/>
+      <node ref="R5" pin="1" pintype="passive"/>
+      <node ref="R6" pin="2" pintype="passive"/>
+    </net>
+    <net code="17" name="Net-(C10-Pad1)" class="Default">
+      <node ref="C10" pin="1" pintype="passive"/>
+      <node ref="C9" pin="2" pintype="passive"/>
+      <node ref="R15" pin="1" pintype="passive"/>
+    </net>
+    <net code="18" name="Net-(C12-Pad2)" class="Default">
+      <node ref="C12" pin="2" pintype="passive"/>
+      <node ref="R16" pin="2" pintype="passive"/>
+      <node ref="R17" pin="1" pintype="passive"/>
+    </net>
+    <net code="19" name="Net-(R1-Pad2)" class="Default">
+      <node ref="R1" pin="2" pintype="passive"/>
+      <node ref="U6" pin="8" pinfunction="Rg" pintype="passive"/>
+    </net>
+    <net code="20" name="Net-(R2-Pad2)" class="Default">
+      <node ref="R2" pin="2" pintype="passive"/>
+      <node ref="U6" pin="1" pinfunction="Rg" pintype="passive"/>
+    </net>
+    <net code="21" name="Net-(R4-Pad1)" class="Default">
+      <node ref="R4" pin="1" pintype="passive"/>
+      <node ref="R5" pin="2" pintype="passive"/>
+    </net>
+    <net code="22" name="Net-(R6-Pad1)" class="Default">
+      <node ref="R6" pin="1" pintype="passive"/>
+      <node ref="R7" pin="2" pintype="passive"/>
+    </net>
+    <net code="23" name="Net-(R8-Pad2)" class="Default">
+      <node ref="R8" pin="2" pintype="passive"/>
+      <node ref="R9" pin="1" pintype="passive"/>
+    </net>
+    <net code="24" name="Net-(U2A--)" class="Default">
+      <node ref="C1" pin="2" pintype="passive"/>
+      <node ref="R3" pin="1" pintype="passive"/>
+      <node ref="U2" pin="2" pinfunction="-" pintype="input"/>
+    </net>
+    <net code="25" name="Net-(U2B-+)" class="Default">
+      <node ref="R10" pin="1" pintype="passive"/>
+      <node ref="R11" pin="2" pintype="passive"/>
+      <node ref="U2" pin="5" pinfunction="+" pintype="input"/>
+    </net>
+    <net code="26" name="Net-(U4B--)" class="Default">
+      <node ref="C8" pin="1" pintype="passive"/>
+      <node ref="R12" pin="1" pintype="passive"/>
+      <node ref="U4" pin="6" pinfunction="-" pintype="input"/>
+    </net>
+    <net code="27" name="Net-(U4C-+)" class="Default">
+      <node ref="C10" pin="2" pintype="passive"/>
+      <node ref="R14" pin="1" pintype="passive"/>
+      <node ref="U4" pin="10" pinfunction="+" pintype="input"/>
+    </net>
+    <net code="28" name="Net-(U4D-+)" class="Default">
+      <node ref="C11" pin="1" pintype="passive"/>
+      <node ref="R17" pin="2" pintype="passive"/>
+      <node ref="U4" pin="12" pinfunction="+" pintype="input"/>
+    </net>
+  </nets>
+</export>
